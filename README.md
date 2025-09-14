@@ -55,9 +55,9 @@
 </details>
 <details><summary>회원가입/ 로그인 시스템</summary>
 
+### 회원가입/ 로그인 시스템 
 <img src="https://teamsparta.notion.site/image/attachment%3A9a91930b-5e77-4ab8-828d-ef55eeb868dd%3Aimage.png?table=block&id=2012dc3e-f514-80b5-b2a6-d144b9ff5c77&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
-### 회원가입/ 로그인 시스템 
 - Firebase Realtime Database를 활용한 사용자 정보 저장 및 조회
 - 이메일 기반의 로그인 / 회원가입 시스템 구현
 - UI 상에서 입력 검증, 중복 검사, 예외 처리 등 UX 개선 요소 반영
@@ -69,9 +69,9 @@
 </details>
 <details><summary>저장 시스템</summary>
   
-<img src="https://teamsparta.notion.site/image/attachment%3A0c933cc0-ddce-4110-8cf1-47894516de3f%3Aimage.png?table=block&id=2012dc3e-f514-8069-86f5-d2716a135fa0&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
-
 ### 저장 시스템
+<img src="https://teamsparta.notion.site/image/attachment%3A0c933cc0-ddce-4110-8cf1-47894516de3f%3Aimage.png?table=block&id=2012dc3e-f514-8069-86f5-d2716a135fa0&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
+  
 - 게임의 진행 상황을 슬롯 단위로 저장/불러오기 가능하도록 구성
 - 저장 슬롯은 유저 키 + 슬롯 번호 조합으로 유일하게 식별
 - 저장 후 게임 재시작 시 해당 슬롯 데이터로 즉시 적용

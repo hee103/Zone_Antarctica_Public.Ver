@@ -174,7 +174,7 @@ UIWeather
 
 ### 인벤토리리 시스템
 
-<img width="800" height="440" alt="image" src="https://github.com/user-attachments/assets/a499cb15-a097-49b3-b229-7222eda741b4" />
+<img src="https://github.com/user-attachments/assets/a499cb15-a097-49b3-b229-7222eda741b4" width="400" height="300" alt="image" />
 
 인벤토리 시스템 구조:	InventoryBase, InventoryManager를 중심으로 다양한 UI 인벤토리 요소(UIInventory, UIEquip, UIQuickSlot)을 관리
 슬롯 시스템:	SlotBase를 상속한 EquipSlot, InventorySlot 등이 있으며, 각 슬롯은 클릭 및 마우스 오버 이벤트를 처리

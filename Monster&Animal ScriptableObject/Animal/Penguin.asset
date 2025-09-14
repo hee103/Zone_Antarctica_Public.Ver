@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ef2d77937bee744afa125a68e3c507, type: 3}
+  m_Name: Penguin
+  m_EditorClassIdentifier: 
+  animalID: 1
+  animalName: 3
+  animalHP: 100
+  maxHP: 100
+  animalWalkSpeed: 0.5
+  animalRunSpeed: 2
+  animalPower: 0
+  animalDetectRange: 7
+  animalAttackRange: 0
+  animalAttackCoolDown: 0
+  wanderRadius: 3

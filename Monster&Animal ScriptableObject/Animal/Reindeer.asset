@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ef2d77937bee744afa125a68e3c507, type: 3}
+  m_Name: Reindeer
+  m_EditorClassIdentifier: 
+  animalID: 1
+  animalName: 2
+  animalHP: 150
+  maxHP: 150
+  animalWalkSpeed: 1
+  animalRunSpeed: 3
+  animalPower: 0
+  animalDetectRange: 5
+  animalAttackRange: 0
+  animalAttackCoolDown: 0
+  wanderRadius: 3

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ef2d77937bee744afa125a68e3c507, type: 3}
+  m_Name: Bear
+  m_EditorClassIdentifier: 
+  animalID: 0
+  animalHP: 300
+  maxHP: 300
+  animalWalkSpeed: 1
+  animalRunSpeed: 3
+  animalPower: 40
+  animalDetectRange: 7
+  animalAttackRange: 3
+  animalAttackCoolDown: 1.5
+  wanderRadius: 5

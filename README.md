@@ -84,7 +84,7 @@
 <details><summary>지형 시스템</summary>
   
 ### 지형 시스템
-<img src="https://github.com/user-attachments/assets/504e9da7-d243-408b-af3c-a25efbf96ea8" width="400" height="300">
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1731f8e1-c343-4a67-873c-ffeadd4190bc" />
 
 대규모 월드의 동적 지형 생성
 

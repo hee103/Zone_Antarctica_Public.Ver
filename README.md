@@ -81,7 +81,7 @@
 <br><br>
   
 </details>
-<details><summary>퀘스트 시스템</summary>
+<details><summary>지형 시스템</summary>
   
 ### 지형 시스템
 <img src="https://github.com/user-attachments/assets/504e9da7-d243-408b-af3c-a25efbf96ea8" width="400" height="300">
@@ -125,7 +125,7 @@
 
 ### 플레이어 컨디션
 
-<img src="[https://github.com/user-attachments/assets/bba0b64c-63ad-4952-a681-35e538a4462b](https://teamsparta.notion.site/image/attachment%3A2531cd2f-1ffa-47d3-b24d-d85b5ba7ba51%3Aimage.png?table=block&id=2022dc3e-f514-807b-8744-d58822340d3d&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1530&userId=&cache=v2)" width="400" height="300">
+<img src="https://teamsparta.notion.site/image/attachment%3A2531cd2f-1ffa-47d3-b24d-d85b5ba7ba51%3Aimage.png?table=block&id=2022dc3e-f514-807b-8744-d58822340d3d&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
 - 배고픔, 갈증, 추위 등의 수치가 **시간과 날씨에 따라 자연스럽게 변화**
 - 상태가 단순 수치가 아니라 **게임플레이에 실질적 영향** 주도록 구현
@@ -147,8 +147,8 @@
 </details>
 <details><summary>몬스터 / 동물 AI 시스템</summary>
 
-### 날씨 시스템
-<img src="https://github.com/user-attachments/assets/5f50d5a8-541a-44dc-be41-e69dd640cb63" width="400" height="300">
+### 몬스터 / 동물 AI 시스템
+<img src="https://teamsparta.notion.site/image/attachment%3Aa063d4fa-d366-47fb-aedb-96ce87f6b45b%3Aimage.png?table=block&id=2012dc3e-f514-8042-b374-cc2525150aed&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
 Weather
 - 날씨 상태를 `Sunny`, `Rainy`, `Hot`, `Snow` 네 가지로 설정
@@ -174,7 +174,8 @@ UIWeather
 
 ### 인벤토리리 시스템
 
-<img src="https://github.com/user-attachments/assets/351311c9-6ad8-4cdb-90f3-95a890ca1df7" width="400" height="300"> <br>
+<img width="2535" height="1398" alt="image" src="https://github.com/user-attachments/assets/a499cb15-a097-49b3-b229-7222eda741b4" />
+
 인벤토리 시스템 구조:	InventoryBase, InventoryManager를 중심으로 다양한 UI 인벤토리 요소(UIInventory, UIEquip, UIQuickSlot)을 관리
 슬롯 시스템:	SlotBase를 상속한 EquipSlot, InventorySlot 등이 있으며, 각 슬롯은 클릭 및 마우스 오버 이벤트를 처리
 툴팁 기능:	Tooltip, TooltipController, TooltipDataBuilder 등을 통해 아이템에 마우스를 올리면 설명창 표시

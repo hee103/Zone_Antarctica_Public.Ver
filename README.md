@@ -1,12 +1,14 @@
 <img src="https://readme-decorate.vercel.app/api/get?type=star&text=Zone:Antarctica&width=1200&height=200&fontSize=80&fontWeight=800&useGradient=true&fontColor=%23FFFFFF&backgroundColor=%23c9c9c9&gradientColor1=%23FFFFFF&gradientColor2=%230000FF">
 
 
-# 🛠️ Description
+# Description
 Zone_Antarctica 프로젝트의 유료 에셋 저작권 문제로 소스코드만 올리는 Repository입니다.
 - **프로젝트 소개** <br>
   엉망이 된 기지 내부와 정체불명의 모습으로 변해버린 동료들 그리고 극한의 환경 <br>
   살아남으려면 자원을 수집하고 장비를 제작해야 합니다. <br>
   또한 배를 수리할 부품과 연료를 제작하여 이곳에서 탈출하는 것이 목표입니다.
+
+  * 조작키 *
 <br>
 
 - **개발 기간** : 2025.04.02 - 2025.06.02

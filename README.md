@@ -121,7 +121,7 @@
 <br><br>
 
 </details>
-<details><summary>플레이어 </summary>
+<details><summary>플레이어 컨디션 </summary>
 
 ### 플레이어 컨디션
 
@@ -150,20 +150,16 @@
 ### 몬스터 / 동물 AI 시스템
 <img src="https://teamsparta.notion.site/image/attachment%3Aa063d4fa-d366-47fb-aedb-96ce87f6b45b%3Aimage.png?table=block&id=2012dc3e-f514-8042-b374-cc2525150aed&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
-Weather
-- 날씨 상태를 `Sunny`, `Rainy`, `Hot`, `Snow` 네 가지로 설정
-- `SetRandomWeather()`: 1~100 사이 난수를 생성해 25% 확률로 각 날씨를 결정
-- 게임 시작 시 `Start()`에서 날씨를 랜덤하게 설정
+FSM
+- 행동 패턴 클래스(IdleState, WanderState, ChaseState, AttackState, TakeDamageState 등)를 각각 생성하여 **상태가 명확히 분리**됨
+- 상태 전환 로직(StateMachine.cs)이 통합되어 코드 이해도 향상
+- 특정 상태를 수정하거나 추가해도 다른 클래스에 영향을 주지 않아 **확장성과 유지보수성** 강화
+- 예: Idle ↔ Wander, Chase ↔ Attack, TakeDamage ↔ Chase 등 상태 전환을 유연하게 구현
 
-UIWeather
-- 날씨 UI 관리
-    - `sunny`, `rainy`, `hot`, `snow` 게임 오브젝트를 통해 현재 날씨 상태를 UI로 표시
-- 날씨 효과 적용 (`Update`)
-    - `Weather` 클래스에서 `currentWeather` 값을 가져와 현재 날씨를 확인
-    - 모든 날씨 UI 요소를 초기화한 후 현재 날씨에 맞는 UI를 활성화
-    - `rainParticle` 및 `snowParticle`이 존재하면 해당 날씨에서 파티클 효과 재생
-- 파티클 위치 조정 (`LateUpdate`)
-    - 카메라의 위치를 기준으로 `rainParticle`과 `snowParticle`의 위치를 조정하여 플레이어 이동 시에도 파티클이 따라오도록 설정
+전략패턴
+- 친화적 동물(FriendlyAnimalBehavior.cs) : 가까이 다가가면 특정 애니메이션 실행, 공격받으면 RunawayState로 전환
+- 공격적 동물(AggressionAnimalBehavior.cs) : 가까이 다가가면 공격, 공격을 받아도 AttackState 유지
+- 공통 인터페이스(IAnimalBehavior) : OnEnterChase(), OnChaseUpdate(), OnExitChase()를 통해 행동 패턴 일관성 유지
 
 
 ---

@@ -1,4 +1,4 @@
-<img src="https://readme-decorate.vercel.app/api/get?type=star&text=Zone:Antarctica&width=1200&height=200&fontSize=80&fontWeight=800&useGradient=true&fontColor=%23ffffff&backgroundColor=%23c9c9c9&gradientColor1=%23ffffff&gradientColor2=%23fd86cc">
+<img src="https://readme-decorate.vercel.app/api/get?type=star&text=Zone:Antarctica&width=1200&height=200&fontSize=80&fontWeight=800&useGradient=true&fontColor=%23FFFFFF&backgroundColor=%23c9c9c9&gradientColor1=%23FFFFFF&gradientColor2=%230000FF">
 
 
 # 🛠️ Description

@@ -176,12 +176,12 @@ UIWeather
 
 <img src="https://github.com/user-attachments/assets/a499cb15-a097-49b3-b229-7222eda741b4" width="400" height="300" alt="image" />
 
-인벤토리 시스템 구조:	InventoryBase, InventoryManager를 중심으로 다양한 UI 인벤토리 요소(UIInventory, UIEquip, UIQuickSlot)을 관리
-슬롯 시스템:	SlotBase를 상속한 EquipSlot, InventorySlot 등이 있으며, 각 슬롯은 클릭 및 마우스 오버 이벤트를 처리
-툴팁 기능:	Tooltip, TooltipController, TooltipDataBuilder 등을 통해 아이템에 마우스를 올리면 설명창 표시
-아이템 정보 관리:	ItemData, ItemObject, ItemEffectProcessor를 통해 아이템의 속성, 효과를 정의하고 적용
-상호작용 시스템:	Interaction을 통해 카메라 중심에 Raycast로 상호작용 가능한 오브젝트 탐색 및 상호작용 UI 제공
-싱글톤 패턴 사용:	InventoryManager는 Singleton 패턴으로 전역 UI 접근 제공
+- 인벤토리 시스템 구조:	InventoryBase, InventoryManager를 중심으로 다양한 UI 인벤토리 요소(UIInventory, UIEquip, UIQuickSlot)을 관리
+- 슬롯 시스템:	SlotBase를 상속한 EquipSlot, InventorySlot 등이 있으며, 각 슬롯은 클릭 및 마우스 오버 이벤트를 처리
+- 툴팁 기능:	Tooltip, TooltipController, TooltipDataBuilder 등을 통해 아이템에 마우스를 올리면 설명창 표시
+- 아이템 정보 관리:	ItemData, ItemObject, ItemEffectProcessor를 통해 아이템의 속성, 효과를 정의하고 적용
+- 상호작용 시스템:	Interaction을 통해 카메라 중심에 Raycast로 상호작용 가능한 오브젝트 탐색 및 상호작용 UI 제공
+- 싱글톤 패턴 사용:	InventoryManager는 Singleton 패턴으로 전역 UI 접근 제공
 
 
 <br><br>

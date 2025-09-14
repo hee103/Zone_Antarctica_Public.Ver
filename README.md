@@ -55,9 +55,9 @@
 </details>
 <details><summary>회원가입/ 로그인 시스템</summary>
 
-### 회원가입/ 로그인 시스템 
 <img src="https://teamsparta.notion.site/image/attachment%3A9a91930b-5e77-4ab8-828d-ef55eeb868dd%3Aimage.png?table=block&id=2012dc3e-f514-80b5-b2a6-d144b9ff5c77&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
+### 회원가입/ 로그인 시스템 
 - Firebase Realtime Database를 활용한 사용자 정보 저장 및 조회
 - 이메일 기반의 로그인 / 회원가입 시스템 구현
 - UI 상에서 입력 검증, 중복 검사, 예외 처리 등 UX 개선 요소 반영
@@ -69,16 +69,13 @@
 </details>
 <details><summary>저장 시스템</summary>
   
-<img src="[https://github.com/user-attachments/assets/51326850-9efd-45f8-a580-ce3391be34ac](https://teamsparta.notion.site/image/attachment%3A0c933cc0-ddce-4110-8cf1-47894516de3f%3Aimage.png?table=block&id=2012dc3e-f514-8069-86f5-d2716a135fa0&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1530&userId=&cache=v2)" width="400" height="300">
+<img src="https://teamsparta.notion.site/image/attachment%3A0c933cc0-ddce-4110-8cf1-47894516de3f%3Aimage.png?table=block&id=2012dc3e-f514-8069-86f5-d2716a135fa0&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
 ### 저장 시스템
 - 게임의 진행 상황을 슬롯 단위로 저장/불러오기 가능하도록 구성
 - 저장 슬롯은 유저 키 + 슬롯 번호 조합으로 유일하게 식별
 - 저장 후 게임 재시작 시 해당 슬롯 데이터로 즉시 적용
 - Firebase Realtime Database를 기반으로 클라우드 저장 기능 구현
-```
-
-```
 
 ---
 <br><br>
@@ -118,13 +115,6 @@
 
 - ScriptableObject 기반의 필터 체인 시스템 구성
 - 예: Perlin 노이즈 강도, 높이 제한, 경사도 제한 등의 필터를 조합해 다양한 지형 생성
-```
-  - 퀘스트 시스템 구현 → QuestData에 퀘스트의 Type과 Target을 넣었습니다.
-  - ex) 나무 10개 습득 → Type : Pickup, Target : 나무, targetCnt : 10
-  - 아이템 습득이 일어나는 곳에서 해당 Type과 Target을 QuestManager에 보고
-  - QuestManger에서 퀘스트 진행도 체크
-  - 완료 되었다면 보상 지급 및 다음 퀘스트 진행
-```
 
 
 ---

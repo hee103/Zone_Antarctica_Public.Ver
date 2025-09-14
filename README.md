@@ -26,6 +26,7 @@
 
 </details>
 
+
 ---
 # 🤝 팀원(역할 분담)
 
@@ -55,7 +56,7 @@
 <details><summary>회원가입/ 로그인 시스템</summary>
 
 ### 회원가입/ 로그인 시스템 
-<img src="[https://github.com/user-attachments/assets/884d293e-eaab-4657-aa64-f067b0f1cf66](https://teamsparta.notion.site/image/attachment%3A9a91930b-5e77-4ab8-828d-ef55eeb868dd%3Aimage.png?table=block&id=2012dc3e-f514-80b5-b2a6-d144b9ff5c77&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1530&userId=&cache=v2)" width="400" height="300">
+<img src="https://teamsparta.notion.site/image/attachment%3A9a91930b-5e77-4ab8-828d-ef55eeb868dd%3Aimage.png?table=block&id=2012dc3e-f514-80b5-b2a6-d144b9ff5c77&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=1010&userId=&cache=v2" width="400" height="300" />
 
 - Firebase Realtime Database를 활용한 사용자 정보 저장 및 조회
 - 이메일 기반의 로그인 / 회원가입 시스템 구현

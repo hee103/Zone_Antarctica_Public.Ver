@@ -184,11 +184,6 @@ UIWeather
 싱글톤 패턴 사용:	InventoryManager는 Singleton 패턴으로 전역 UI 접근 제공
 
 
----
-<br><br>
-
-
----
 <br><br>
 
 </details>

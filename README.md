@@ -26,7 +26,7 @@ Zone_Antarctica 프로젝트의 유료 에셋 저작권 문제로 소스코드�
 
 ---
 # 🎮 프로젝트 소개 영상
-[<a href="[https://www.youtube.com/watch?v=fUpcPFJYs_8](https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/08b3ef82-09a7-4da6-a926-8dd69c1298ed/32%EC%A1%B0_%EA%B2%8C%EC%9E%84_%EC%98%81%EC%83%81.mp4?table=block&id=2022dc3e-f514-80e0-8527-c44f9a22cb2f&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1757800800000&signature=32lpSVbcZk07ouoMuqI8hWMoRFNilLMz9-k9tUHDIyM&downloadName=32%EC%A1%B0+%EA%B2%8C%EC%9E%84+%EC%98%81%EC%83%81.mp4)">](https://www.youtube.com/watch?v=fUpcPFJYs_8)
+[[<a href="[https://www.youtube.com/watch?v=fUpcPFJYs_8](https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/08b3ef82-09a7-4da6-a926-8dd69c1298ed/32%EC%A1%B0_%EA%B2%8C%EC%9E%84_%EC%98%81%EC%83%81.mp4?table=block&id=2022dc3e-f514-80e0-8527-c44f9a22cb2f&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1757800800000&signature=32lpSVbcZk07ouoMuqI8hWMoRFNilLMz9-k9tUHDIyM&downloadName=32%EC%A1%B0+%EA%B2%8C%EC%9E%84+%EC%98%81%EC%83%81.mp4)">](https://www.youtube.com/watch?v=fUpcPFJYs_8)](https://youtu.be/Lwh7YiFHHyY)
 </a>
 
 

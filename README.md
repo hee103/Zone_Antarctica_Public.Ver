@@ -66,9 +66,7 @@ Zone_Antarctica 프로젝트의 유료 에셋 저작권 문제로 소스코드�
 - 저장 후 게임 재시작 시 해당 슬롯 데이터로 즉시 적용
 - Firebase Realtime Database를 기반으로 클라우드 저장 기능 구현
 ```
-    - 퀵슬롯 구현 → 각 슬롯에 Item Data를 넣어놓는 방식
-    - 1 ~ 9번 키를 입력 → 해당 index에 있는 item Data 찾아서 플레이어에 적용
-    - 손에 쥘 수 있는 Prefab이 있다면 생성하여 사용
+
 ```
 
 ---

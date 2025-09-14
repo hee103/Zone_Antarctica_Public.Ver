@@ -27,7 +27,7 @@ Zone_Antarctica 프로젝트의 유료 에셋 저작권 문제로 소스코드�
 ---
 # 🎮 프로젝트 소개 영상
 
-[![프로젝트 영상](https://youtu.be/Lwh7YiFHHyY.jpg)](https://youtu.be/Lwh7YiFHHyY)
+[![프로젝트 영상](https://img.youtube.com/vi/Lwh7YiFHHyY/0.jpg)](https://youtu.be/Lwh7YiFHHyY)
 
 </a>
 
